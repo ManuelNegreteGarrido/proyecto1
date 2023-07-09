@@ -1,0 +1,78 @@
+
+
+.fondo-navbar{
+    background-color: #fbf9f9;
+}
+
+.img_logo{
+    max-width: 50%;
+}
+
+.titulo1{
+	font-family: 'Inter', sans-serif;
+ 	color: #030008;
+	font-weight: 800;
+}
+
+.boton-ver-mas {
+	box-shadow: 3px 4px 0px 0px #252525;
+	background-color:#6fdcbf;
+	border-radius:2px;
+	border:1px solid #252525;
+	display:inline-block;
+	cursor:pointer;
+	color:#252525;
+	font-family: 'Inter', sans-serif;
+	font-weight: 700;
+	font-size:17px;
+	padding:12px 44px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #252525;
+}
+.boton-ver-mas:hover {
+	background-color:#fef8b4;
+}
+.boton-ver-mas:active {
+	position:relative;
+	top:1px;
+}
+
+footer{
+    background-color: #fbf9f9;
+    height: 230px;
+}
+
+.boton-ver-mas2 {
+	box-shadow: 3px 4px 0px 0px #252525;
+	background-color:#f6f4f6;
+	border-radius:2px;
+	border:1px solid #252525;
+	display:inline-block;
+	cursor:pointer;
+	color:#252525;
+	font-family: 'Inter', sans-serif;
+	font-weight: 700;
+	font-size:17px;
+	padding:12px 44px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #252525;
+}
+.boton-ver-mas2:hover {
+	background-color:#fef8b4;
+}
+.boton-ver-mas2:active {
+	position:relative;
+	top:1px;
+}
+
+    
+p{
+	font-family: 'Inter', sans-serif;
+	font-weight: 300;
+	font-size: 13px;
+}
+
+h5{
+	font-family: 'Inter', sans-serif;
+	font-weight:800;
+}
